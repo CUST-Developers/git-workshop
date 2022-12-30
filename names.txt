@@ -1,2 +1,13 @@
-Raahim
-Hamza
+Moiz Ahmed,BSE203146
+Sheraz Ahmed,BSE203106
+Kazim Hussain,BBT223029
+Sahaf Mudassar,BSE203150
+Abdullah Chaudhary,BSE221028
+Muhammad Sufyan,BCS211123
+Saif Ur Rehman,BCS211119
+Muhammad Roshail Azhar,BCS211130
+Muhammad Ahmed,BSE223121
+Muhammad Mudassar,BSE213195
+Muammad Shahzaib,BSE213202
+Muhammad Faizan Satti,BSE213168
+Ibrahim Atiq,BBA213042
