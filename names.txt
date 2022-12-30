@@ -11,3 +11,6 @@ Muhammad Mudassar,BSE213195
 Muammad Shahzaib,BSE213202
 Muhammad Faizan Satti,BSE213168
 Ibrahim Atiq,BBA213042
+Ruquiya,BCS213065
+Umm e Aimen,BCS213056 
+Khwaja Saad Ayaz,BCS223205
